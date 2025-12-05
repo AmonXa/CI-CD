@@ -1,4 +1,4 @@
-from app import greeting, add, sub
+from app import greeting, add, sub, mult
 
 def test_greet():
     assert greeting("Bob") == "Hola Bob!"
