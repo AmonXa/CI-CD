@@ -8,3 +8,6 @@ def test_add():
 
 def test_sub():
     assert sub(20, 10) == 10
+
+def test_mult():
+    assert mult(5, 3) == 15
